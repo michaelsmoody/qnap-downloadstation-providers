@@ -1,4 +1,4 @@
-# qnap-torrent-providers
+# QNAP Download Station Providers
 Unofficial QNap Download Station torrent add-on repository for additional torrent providers.
 
 ## Torrent providers implemented:
